@@ -1,0 +1,8 @@
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\bin\Debug\Model.dll
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\bin\Debug\Model.pdb
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb

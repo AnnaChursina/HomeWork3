@@ -1,0 +1,5 @@
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\Model\bin\Debug\Model.dll
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\Model\bin\Debug\Model.pdb
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\Model\obj\Debug\Model.dll
+E:\Учеба\Программисты\ForGH\HomeWork3\HomeWork3\Model\obj\Debug\Model.pdb
